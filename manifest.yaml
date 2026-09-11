@@ -1,0 +1,17 @@
+slug: gpt-image2-skill
+name: GPT-image-2 生图
+category: content
+description: 通过 GeekNow API 调用 GPT-image-2 文生图/图生图，BYOK 自备 key。
+license: MIT
+author: 孔不惑AIko
+triggers:
+  - gpt-image-2 生图
+  - 文生图
+  - 图生图
+  - txt2img
+  - img2img
+  - AI 配图
+  - GPT 生成图片
+pricing: free
+requires_api_key: true
+notes: 需自备 GeekNow API Key（付费 API，约 ¥0.04/张，需充值 credits）。
