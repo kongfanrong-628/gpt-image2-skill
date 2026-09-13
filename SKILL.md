@@ -4,7 +4,7 @@ description: 通过 GeekNow 聚合 API 调用 GPT-image-2 模型进行文生图�
 version: 1.0.0
 author: 孔不惑AIko
 license: MIT
-homepage: https://github.com/<owner>/gpt-image2-skill
+homepage: https://github.com/kongfanrong-628/gpt-image2-skill
 agent_created: true
 ---
 

@@ -8,7 +8,7 @@
 ## 安装（一条命令）
 
 ```bash
-git clone https://github.com/<owner>/gpt-image2-skill.git ~/.workbuddy/skills/gpt-image2-skill
+git clone https://github.com/kongfanrong-628/gpt-image2-skill.git ~/.workbuddy/skills/gpt-image2-skill
 ```
 
 装完重启 / 刷新 WorkBuddy，首次对话会引导你注册并配置 key。
