@@ -1,6 +1,6 @@
 # gpt-image2-skill
 
-通过 [GeekNow](https://geeknow.ai) 聚合 API 调用 **GPT-image-2** 模型做文生图 / 图生图的 WorkBuddy skill。
+通过 [GeekNow](https://hk.geeknow.ai/register?aff=mD63) 聚合 API 调用 **GPT-image-2** 模型做文生图 / 图生图的 WorkBuddy skill。
 纯 BYOK（Bring Your Own Key），skill 内**不含任何密钥**，任何人安装后自备 GeekNow Key 即可用。
 
 > ⚠️ GPT-image-2 是**付费 API（约 ¥0.04/张）**，需注册 GeekNow 账号、创建 API Key 并**充值 credits** 后才能生图。
@@ -18,7 +18,7 @@ git clone https://github.com/kongfanrong-628/gpt-image2-skill.git ~/.workbuddy/s
 ## 首次使用（多轮对话引导）
 
 1. 直接说"用 gpt-image-2 给我生张图"，AI 检测到你没配 key，会给你注册网址。
-2. 去 https://geeknow.ai 注册 → 控制台创建 API Key → **充值 credits** → 把 Key 发回给 AI。
+2. 去 https://hk.geeknow.ai/register?aff=mD63 注册 → 控制台创建 API Key → **充值 credits** → 把 Key 发回给 AI。
 3. AI 把 Key 存到本 skill 的 `config/api_key.json`（已被 `.gitignore` 排除，绝不上传）。
 4. 之后正常生图即可。
 

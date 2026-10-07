@@ -4,7 +4,7 @@ info:
   description: >-
     通过 GeekNow 聚合 API 调用 GPT-image-2 模型做文生图 / 图生图。
     纯 BYOK（用户自备 GeekNow API Key，付费 API，约 ¥0.04/张，需充值 credits）。
-    ⚠️ 注册/控制台网址以官方 https://geeknow.ai 实时为准（本规范不内置网址之外的保证）。
+    ⚠️ 用户注册/邀请地址：https://hk.geeknow.ai/register?aff=mD63（带推广码；控制台由此进入）。
   version: 1.0.0
   license:
     name: MIT

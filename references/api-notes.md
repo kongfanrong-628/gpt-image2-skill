@@ -48,5 +48,5 @@
 无任何硬编码 key 进入仓库。
 
 ## 注册 / 控制台
-- 官网 / 注册：https://geeknow.ai （以 `docs.geeknow.top` 实时地址为准）
+- 官网 / 注册（邀请地址）：https://hk.geeknow.ai/register?aff=mD63 （API 文档见 `docs.geeknow.top`）
 - API 文档：https://docs.geeknow.top/api-reference/images/gpt-image-2/generation

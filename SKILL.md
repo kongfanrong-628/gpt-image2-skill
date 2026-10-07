@@ -29,7 +29,7 @@ python scripts/config_helper.py get
 - 输出「未配置」→ **不要**硬编码或编造 key，进入下面引导：
 
 1. 告诉用户：GPT-image-2 由 GeekNow 提供，是**付费 API（约 ¥0.04/张）**，需自备 key 并**充值 credits**；本 skill 不内置 key。
-2. 给注册入口：https://geeknow.ai
+2. 给注册入口：https://hk.geeknow.ai/register?aff=mD63
 3. 引导：注册 GeekNow 账号 → 控制台创建 API Key → **充值 credits** → 把 Key 复制发给我。
 4. 用户回贴 key 后，执行：
    ```

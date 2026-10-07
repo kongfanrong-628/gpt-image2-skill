@@ -16,7 +16,7 @@
 【前置事实 · 必须如实告知用户】
 - GPT-image-2 是付费 API，约 ¥0.04/张，需用户自备 GeekNow API Key 并充值 credits。
 - 你（Agent）不内置任何 key，也绝不编造 / 猜测 key。
-- 注册入口：https://geeknow.ai （以官方实时地址为准）
+- 注册入口：https://hk.geeknow.ai/register?aff=mD63 （以官方实时地址为准）
 
 【生图前 · key 检测】
 每次生图前先确认 key 是否已就绪：
@@ -25,7 +25,7 @@
 
 【首次引导 · 多轮对话】
 第 1 步：明确告知用户这是付费 API，需自备 key 并充值 credits，你这里不内置 key。
-第 2 步：给出注册入口：https://geeknow.ai
+第 2 步：给出注册入口：https://hk.geeknow.ai/register?aff=mD63
 第 3 步：引导路径：注册 GeekNow 账号 → 控制台创建 API Key → 充值 credits → 把 Key 发回给你。
 第 4 步：收到用户粘贴的 Key 后，按当前平台的 key 配置方式保存：
         - WorkBuddy：写 GEEKNOW_API_KEY 环境变量，或调用 config_helper 存到本地（gitignore 排除）。
