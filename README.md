@@ -1,9 +1,8 @@
-# gpt-image2-skill
-
-通过 [GeekNow](https://hk.geeknow.ai/register?aff=mD63) 聚合 API 调用 **GPT-image-2** 模型做文生图 / 图生图的 WorkBuddy skill。
+任何国内Anget都可以使用Gpt生图
+通过聚合 API 调用 **GPT生图** 模型做文生图 / 图生图的skill。
 纯 BYOK（Bring Your Own Key），skill 内**不含任何密钥**，任何人安装后自备 GeekNow Key 即可用。
 
-> ⚠️ GPT-image-2 是**付费 API（约 ¥0.04/张）**，需注册 GeekNow 账号、创建 API Key 并**充值 credits** 后才能生图。
+> ⚠️ 付费 API（约 ¥0.04/张）**，需注册 GeekNow 账号、创建 API Key 并**充值 credits** 后才能生图。
 
 ## 安装（一条命令）
 
