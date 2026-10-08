@@ -1,3 +1,5 @@
+<img width="2848" height="1600" alt="小红书封面设计 (22)" src="https://github.com/user-attachments/assets/07100ca6-93f5-49ef-9776-a2a9ffcb0248" />
+
 任何国内Anget都可以使用Gpt生图。
 
 通过聚合 API 调用 **GPT生图** 模型做文生图 / 图生图的skill。
